@@ -2,7 +2,8 @@
 This project is a responsive e-commerce website built using React, Redux, Tailwind CSS, and some third-party libraries. It replicates a shopping site with essential features, including product listing, cart management, and checkout. The website offers a seamless shopping experience for users and allows them to explore and purchase various products.
 
 ## `Demo`
-You can access the live demo of this e-commerce website [here](totalitycorp-frontend-challenge-nohaucnx8-nikhil-hub-coder.vercel.app).
+`Important Note:` First create an account here or if already created, Log-in and it will take you to the main landing page of the website.\
+You can access the live demo (deployed on vercel) of this e-commerce website [here](totalitycorp-frontend-challenge-nohaucnx8-nikhil-hub-coder.vercel.app).
 
 ## `Features`
 #### `Product Listing`
