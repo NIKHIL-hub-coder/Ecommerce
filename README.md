@@ -1,4 +1,4 @@
-# TotalityCorp Frontend Challenge
+# Ecommerce
 This project is a responsive e-commerce website built using React, Redux, Tailwind CSS, and some third-party libraries. It replicates a shopping site with essential features, including product listing, cart management, and checkout. The website offers a seamless shopping experience for users and allows them to explore and purchase various products.
 
 ## `Demo`
